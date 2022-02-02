@@ -1,3 +1,5 @@
+cdn.homecomingservers.com
+nsa.tools
 cdn-na1.homecomingservers.com
 cdn-na2.homecomingservers.com
 cdn-na3.homecomingservers.com
