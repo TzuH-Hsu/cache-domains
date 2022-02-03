@@ -1,0 +1,7 @@
+download.gfe.nvidia.com
+international-gfe.download.nvidia.com
+events.gfe.nvidia.com
+images.nvidia.com
+api.gfe.nvidia.com
+services.gfe.nvidia.com
+ota.nvidia.com
