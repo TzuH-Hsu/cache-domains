@@ -1,0 +1,17 @@
+*.mzstatic.com
+mzstatic.com
+swcdn.apple.com
+itunes-apple.com
+swscan.apple.com
+osxapps.itunes.apple.com
+swdownload.apple.com
+*.aaplimg.com
+aaplimg.com
+iosapps.itunes.apple.com
+swquery.apple.com
+albert.apple.com
+deimos3.apple.com
+mesu.apple.com
+skl.apple.com
+appldnld.apple.com
+gs.apple.com
