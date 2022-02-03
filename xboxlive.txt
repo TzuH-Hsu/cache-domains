@@ -8,3 +8,5 @@ assets1.xboxlive.com.nsatc.net
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
 d1.xboxlive.com
+download.xbox.com
+images-eds.xboxlive.com
